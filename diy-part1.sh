@@ -19,4 +19,4 @@
 sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 #git clone https://github.com/filebrowser/filebrowser.git package/filebrowser
 #https://github.com/immortalwrt-collections/openwrt-filebrowser.git
-git clone https://github.com/immortalwrt-collections/openwrt-filebrowser.git package/openwrt-filebrowser
+#git clone https://github.com/immortalwrt-collections/openwrt-filebrowser.git package/openwrt-filebrowser
